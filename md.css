@@ -1,0 +1,53 @@
+.navbar{
+    gap: 20px;
+}
+.header{
+    justify-content: start;
+    gap: 50px;
+    width: auto;
+}
+.container{
+    height: 170vh;
+}
+.main{
+    flex-direction: column;
+    align-items: center;
+    gap: 50px;
+    width: auto;
+}
+.main-disc{
+    margin-top: 40px;
+}
+.images img{
+    width: auto;
+}
+.block-2{
+    margin: 0;
+    margin: 30px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.block-3{
+    display: flex;
+    flex-wrap: wrap;
+    height: auto;
+}
+.block-4{
+    margin: 25px;
+    box-sizing: border-box;height: auto;
+}
+.block-4-about{
+    display: flex;
+    flex-wrap: wrap;
+}
+.block-6{
+    margin: 25px;
+    box-sizing: border-box;height: auto;
+}
+.block-6-divs{
+    display: flex;
+    flex-wrap: wrap;
+}
+.first:nth-child(3){
+    margin-right: auto;
+}
